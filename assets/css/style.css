@@ -79,7 +79,11 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
+<<<<<<< HEAD
   background:#575039;
+=======
+  background: #040b14;
+>>>>>>> f40b9a97b0b08cef9c9e1c518232d2343ae3645d
   overflow-y: auto;
 }
 
@@ -87,7 +91,11 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
+<<<<<<< HEAD
   border: 5px solid #72675a;
+=======
+  border: 8px solid #2c2f3f;
+>>>>>>> f40b9a97b0b08cef9c9e1c518232d2343ae3645d
 }
 
 #header .profile h1 {
@@ -122,7 +130,11 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
+<<<<<<< HEAD
   background: #d81fa0;
+=======
+  background: #149ddd;
+>>>>>>> f40b9a97b0b08cef9c9e1c518232d2343ae3645d
   color: #fff;
   text-decoration: none;
 }
@@ -264,18 +276,29 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
+<<<<<<< HEAD
   font-size: 60px;
   font-weight: 700;
   line-height: 56px;
   font-family: -webkit-body;
+=======
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 56px;
+>>>>>>> f40b9a97b0b08cef9c9e1c518232d2343ae3645d
   color: #fff;
 }
 
 #hero p {
   color: #fff;
   margin-bottom: 50px;
+<<<<<<< HEAD
   font-size: 16px;
   font-family: "raleway";
+=======
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;
+>>>>>>> f40b9a97b0b08cef9c9e1c518232d2343ae3645d
 }
 
 #hero p span {
@@ -326,7 +349,10 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
+<<<<<<< HEAD
   font-family: "Snell Roundhand, cursive";
+=======
+>>>>>>> f40b9a97b0b08cef9c9e1c518232d2343ae3645d
   color: #173b6c;
 }
 
